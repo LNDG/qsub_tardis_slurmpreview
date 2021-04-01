@@ -1,3 +1,5 @@
+This is a modified version of the FieldTrip QSUB toolbox, to work on the MPIB tardis cluster.
+
 This is the FieldTrip QSUB toolbox. It facilitates distributed computing on
 a Linux cluster without requiring the MATLAB parallel toolbox or distributed
 computing engines. It only requires a standard MATLAB installation on the
